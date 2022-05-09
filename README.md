@@ -4,10 +4,10 @@
 
 ## My Goals
 This project will be completed in 3 different ways
-1. Solution 1 will be the bear minimum to fulfill the requirements from freeCodeCamp; This may or may not include CSS and/or JavaScript.
+1. Solution 1 will be the bare minimum to fulfill the requirements from freeCodeCamp; This may or may not include CSS and/or JavaScript.
 2. Solution 2 will meet the requirements from freeCodeCamp and will include CSS; This solution may or may not include JavaScript.
 3. Solution 3 will meet the requirements from freeCodeCamp and will include CSS & JavaScript.
-4. Bonus Solution(s) will be written in other language/frameworks fulfilling the same requirements from freeCodeCamp
+4. Bonus Solution(s) will be written in other languages/frameworks fulfilling the same requirements from freeCodeCamp
 
 ## Description from freeCodeCamp
 Fulfill the below [user stories](https://en.wikipedia.org/wiki/User_story) and get all of the tests to pass. Give it your own personal style.
@@ -30,7 +30,7 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 
 - User Story #8: If I enter non-numbers in the number input, I will see an HTML5 validation error.
 
-- User Story #9: If I enter numbers outside the range of the number input, which are defined by the min and max attributes,                   I will see an HTML5 validation error.
+- User Story #9: If I enter numbers outside the range of the number input, which is defined by the min and max attributes,                   I will see an HTML5 validation error.
 
 - User Story #10: For the name, email, and number input fields inside the form I can see corresponding labels that describe                   the purpose of each field with the following ids: `id="name-label"`, `id="email-label"`, and `id="number-                       label"`.
 
