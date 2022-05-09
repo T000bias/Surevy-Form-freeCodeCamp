@@ -2,6 +2,13 @@
 
 ## Objective: Build a web app that is functionally similar to this web app: https://codepen.io/freeCodeCamp/full/VPaoNP
 
+## My Goals
+This project will be completed in 3 different ways
+1. Solution 1 will be the bear minimum to fulfill the requirements from freeCodeCamp; This may or may not include CSS and/or JavaScript.
+2. Solution 2 will meet the requirements from freeCodeCamp and will include CSS; This solution may or may not include JavaScript.
+3. Solution 3 will meet the requirements from freeCodeCamp and will include CSS & JavaScript.
+4. Bonus Solution(s) will be written in other language/frameworks fulfilling the same requirements from freeCodeCamp
+
 ## Description from freeCodeCamp
 Fulfill the below [user stories](https://en.wikipedia.org/wiki/User_story) and get all of the tests to pass. Give it your own personal style.
 
