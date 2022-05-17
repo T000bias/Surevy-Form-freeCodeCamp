@@ -2,6 +2,8 @@
 
 ## Objective: Build a web app that is functionally similar to this web app: https://codepen.io/freeCodeCamp/full/VPaoNP
 
+---
+
 ## My Goals
 This project will be completed in 3 different ways
 1. Solution 1 will be the bare minimum to fulfill the requirements from freeCodeCamp; This may or may not include CSS and/or JavaScript.
